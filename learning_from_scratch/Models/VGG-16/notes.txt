@@ -1,0 +1,2 @@
+Model taken from http://cs.stanford.edu/people/karpathy/vgg_train_val.prototxt and modified.
+http://www.robots.ox.ac.uk/~vgg/research/very_deep/

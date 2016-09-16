@@ -1,0 +1,1 @@
+Model is original DIGITS AlexNet model with default parameters.
