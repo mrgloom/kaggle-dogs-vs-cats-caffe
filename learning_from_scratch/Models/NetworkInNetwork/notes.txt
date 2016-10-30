@@ -1,0 +1,2 @@
+Model definition from
+https://gist.github.com/mavenlin/d802a5849de39225bcc6
