@@ -1,6 +1,20 @@
 Solutions for https://www.kaggle.com/c/dogs-vs-cats competition.
 
-1. learning_from_scratch is folder with models that were used in NVIDIA DIGITS with Caffe backend.
+1. learning_from_scratch is folder with models that were trained in NVIDIA DIGITS with Caffe backend.
+Here is table with results, but hyperparameters of neural nets can drastically affect accuracy, so if you know how to improve results let me know.
+
+All network models were trained for 30 epochs, batch size, learning rate, etc. can vary.
+
+Name| Acc. test | Acc. val. | Train time | Year | Paper
+------------------ | --- | --- | --- | --- | ---
+AlexNet | | | | | [link]()
+SqeezeNet v1.1 | | | | | [link]()
+GoogLeNet | | | | | [link]()
+VGG-16 | | | | | [link]()
+VGG-19 | | | | | [link]()
+Network-In-Network | | | | | [link]()
+
+
 
 
 Tested on system with following configuration:
