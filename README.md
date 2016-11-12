@@ -18,8 +18,11 @@ Network-In-Network | 93.22% | - | ~2h |-| 26.3Mb | 2014 | [link](arxiv.org/pdf/1
   Validation accuracy measured on Kaggle leaderboard.
 
 
-Tested on system with following configuration:
 
+
+
+Tested on system with following configuration:
+~~~~
 Ubuntu version:
 
 `lsb_release -a`
@@ -74,7 +77,7 @@ GPU:
 |   0  GeForce GTX 1070    On   | 0000:01:00.0      On |                  N/A |
 | 27%   38C    P8    10W / 151W |    150MiB /  8108MiB |      0%      Default |
 +-------------------------------+----------------------+----------------------+
-
+~~~
 
 
 
