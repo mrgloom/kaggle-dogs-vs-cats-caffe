@@ -4,7 +4,7 @@ Solutions for https://www.kaggle.com/c/dogs-vs-cats competition.
 Here is table with results, but hyperparameters of neural nets can drastically affect accuracy, so if you know how to improve results let me know.
 
 Name| Acc. test | Acc. val. | Train time | Forward pass time | On disk model size | Year | Paper
------------------- | --- | --- | --- | --- | ---
+------------------ | --- | --- | --- | --- | --- | --- | ---
 AlexNet | | | | | | 2012 | [link]()
 SqeezeNet v1.1 | 92.46% | - | 2h | -| 2.9Mb | 2016 | [link]()
 GoogLeNet | | | | | | 2014 | [link]()
