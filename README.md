@@ -6,23 +6,23 @@ Solutions for https://www.kaggle.com/c/dogs-vs-cats competition.
 Tested on system with following configuration:
 
 Ubuntu version:
->lsb_release -a
+`lsb_release -a`
 Ubuntu 14.04.4 LTS
->uname -a
+`uname -a`
 Linux myuser-computer 3.19.0-61-generic #69~14.04.1-Ubuntu SMP Thu Jun 9 09:09:13 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
 
 gcc version:
->gcc --version
+`gcc --version`
 gcc (Ubuntu 4.8.4-2ubuntu1~14.04.3) 4.8.4
 
 DIGITS version:
->./digits-devserver --version
+`./digits-devserver --version`
 4.1-dev
 
 Caffe version:
->git status
+`git status`
 branch caffe-0.15
->git log -n 1
+`git log -n 1`
 commit e638c0b1cb19afff50d830ce87cc1898f18568fd
 Author: Sergei Nikolaev <snikolaev@nvidia.com>
 Date:   Wed Aug 31 14:32:28 2016 -0700
@@ -30,11 +30,11 @@ Date:   Wed Aug 31 14:32:28 2016 -0700
     Mark 0.15.13
 
 CPU:
->cat /proc/cpuinfo | grep "model name"
+`cat /proc/cpuinfo | grep "model name"`
 Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz
 
 GPU:
->nvidia-smi
+`nvidia-smi`
 +-----------------------------------------------------------------------------+
 | NVIDIA-SMI 367.44                 Driver Version: 367.44                    |
 |-------------------------------+----------------------+----------------------+
