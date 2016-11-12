@@ -5,12 +5,12 @@ Here is table with results, but hyperparameters of neural nets can drastically a
 
 Name| Acc. test | Acc. val. | Train time | Forward pass time | On disk model size | Year | Paper
 ------------------ | --- | --- | --- | --- | ---
-AlexNet | | | | 2012 | [link]()
+AlexNet | | | | | | 2012 | [link]()
 SqeezeNet v1.1 | 92.46% | - | 2h | -| 2.9Mb | 2016 | [link]()
-GoogLeNet | | | | 2014 | [link]()
-VGG-16 | | | | 2014 | [link]()
-VGG-19 | | | | 2014 | [link]()
-Network-In-Network | | | | 2014 | [link]()
+GoogLeNet | | | | | | 2014 | [link]()
+VGG-16 | | | | | | 2014 | [link]()
+VGG-19 | | | | | | 2014 | [link]()
+Network-In-Network | | | | | | 2014 | [link]()
 
 All network models were trained for 30 epochs, batch size, learning rate, etc. can vary.
 
