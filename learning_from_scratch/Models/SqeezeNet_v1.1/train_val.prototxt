@@ -9,10 +9,10 @@ layer {
   transform_param {
     mirror: true
     crop_size: 227
-    mean_file: "/media/myuser/120Gb/DIGITS/digits/jobs/20160904-002550-f9dd/mean.binaryproto"
+    mean_file: "/media/myuser/120Gb/DIGITS/digits/jobs/20160917-133511-8c62/mean.binaryproto"
   }
   data_param {
-    source: "/media/myuser/120Gb/DIGITS/digits/jobs/20160904-002550-f9dd/train_db"
+    source: "/media/myuser/120Gb/DIGITS/digits/jobs/20160917-133511-8c62/train_db"
     batch_size: 64
     backend: LMDB
   }
@@ -27,10 +27,10 @@ layer {
   }
   transform_param {
     crop_size: 227
-    mean_file: "/media/myuser/120Gb/DIGITS/digits/jobs/20160904-002550-f9dd/mean.binaryproto"
+    mean_file: "/media/myuser/120Gb/DIGITS/digits/jobs/20160917-133511-8c62/mean.binaryproto"
   }
   data_param {
-    source: "/media/myuser/120Gb/DIGITS/digits/jobs/20160904-002550-f9dd/val_db"
+    source: "/media/myuser/120Gb/DIGITS/digits/jobs/20160917-133511-8c62/val_db"
     batch_size: 64
     backend: LMDB
   }
