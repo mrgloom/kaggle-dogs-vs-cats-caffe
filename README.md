@@ -14,7 +14,8 @@ VGG-19 | **97.02%** | - | ? | - | 558.2Mb | 2014 | [link](arxiv.org/pdf/1409.155
 Network-In-Network | 93.22% | - | ~2h |-| 26.3Mb | 2014 | [link](arxiv.org/pdf/1312.4400v3.pdf)
 
   All network models were trained for 30 epochs, batch size, learning rate, etc. can vary.
-
+  Test accuracy measured on train-test split 80%-20%.
+  Validation accuracy measured on Kaggle leaderboard.
 
 
 Tested on system with following configuration:
