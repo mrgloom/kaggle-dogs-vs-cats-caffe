@@ -3,7 +3,8 @@ Solutions for https://www.kaggle.com/c/dogs-vs-cats competition.
 1. learning_from_scratch is folder with models that were used in NVIDIA DIGITS with Caffe backend.
 
 
-Tested on system with following OS configuration and hardware:
+Tested on system with following configuration:
+
 Ubuntu version:
 >lsb_release -a
 Ubuntu 14.04.4 LTS
