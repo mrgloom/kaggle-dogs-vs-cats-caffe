@@ -1,6 +1,7 @@
 Solutions for https://www.kaggle.com/c/dogs-vs-cats competition.
 
 1. learning_from_scratch is folder with models that were trained in NVIDIA DIGITS with Caffe backend.
+
 Here is table with results, but hyperparameters of neural nets can drastically affect accuracy, so if you know how to improve results let me know.
 
 Name| Acc. test | Acc. val. | Train time | Forward pass time | On disk model size | Year | Paper
@@ -12,7 +13,7 @@ VGG-16 | 96.51% | - | 5h20m | - | 537.1Mb | 2014 | [link](arxiv.org/pdf/1409.155
 VGG-19 | **97.02%** | - | ? | - | 558.2Mb | 2014 | [link](arxiv.org/pdf/1409.1556.pdf)
 Network-In-Network | 93.22% | - | ~2h |-| 26.3Mb | 2014 | [link](arxiv.org/pdf/1312.4400v3.pdf)
 
-All network models were trained for 30 epochs, batch size, learning rate, etc. can vary.
+  All network models were trained for 30 epochs, batch size, learning rate, etc. can vary.
 
 
 
