@@ -5,11 +5,11 @@ Here is table with results, but hyperparameters of neural nets can drastically a
 
 Name| Acc. test | Acc. val. | Train time | Forward pass time | On disk model size | Year | Paper
 ------------------ | --- | --- | --- | --- | --- | --- | ---
-AlexNet | 93.65%  | - | 35m | - | 227.5Mb | 2012 | [link](papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-SqeezeNet v1.1 | 92.46% | - | ~2h | -| 2.9Mb | 2016 | [link](arxiv.org/pdf/1602.07360v3.pdf)
+AlexNet | 93.65%  | - | **35m** | - | 227.5Mb | 2012 | [link](papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+SqeezeNet v1.1 | 92.46% | - | ~2h | -| **2.9Mb** | 2016 | [link](arxiv.org/pdf/1602.07360v3.pdf)
 GoogLeNet | 94.62% | - | 50m | - | 41.3Mb | 2014 | [link](www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 VGG-16 | 96.51% | - | 5h20m | - | 537.1Mb | 2014 | [link](arxiv.org/pdf/1409.1556.pdf)
-VGG-19 | 97.02% | - | ? | - | 558.2Mb | 2014 | [link](arxiv.org/pdf/1409.1556.pdf)
+VGG-19 | **97.02%** | - | ? | - | 558.2Mb | 2014 | [link](arxiv.org/pdf/1409.1556.pdf)
 Network-In-Network | 93.22% | - | ~2h |-| 26.3Mb | 2014 | [link](arxiv.org/pdf/1312.4400v3.pdf)
 
 All network models were trained for 30 epochs, batch size, learning rate, etc. can vary.
