@@ -7,12 +7,12 @@ All network models were trained for 30 epochs, batch size, learning rate, etc. c
 
 Name| Acc. test | Acc. val. | Train time | Year | Paper
 ------------------ | --- | --- | --- | --- | ---
-AlexNet | | | | | [link]()
-SqeezeNet v1.1 | | | | | [link]()
-GoogLeNet | | | | | [link]()
-VGG-16 | | | | | [link]()
-VGG-19 | | | | | [link]()
-Network-In-Network | | | | | [link]()
+AlexNet | | | | 2012 | [link]()
+SqeezeNet v1.1 | | | | 2016 | [link]()
+GoogLeNet | | | | 2014 | [link]()
+VGG-16 | | | | 2014 | [link]()
+VGG-19 | | | | 2014 | [link]()
+Network-In-Network | | | | 2014 | [link]()
 
 
 
