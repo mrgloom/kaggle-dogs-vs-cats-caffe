@@ -17,8 +17,10 @@ Network-In-Network | 93.22% | - | ~2h |-| 26.3Mb | 2014 | [link](arxiv.org/pdf/1
   Test accuracy measured on train-test split 80%-20%, maybe to achive better acuracy we can train on all available data.
   Validation accuracy measured on Kaggle leaderboard.
 
-
-
+More models to test:
+~~~
+https://github.com/beniz/deepdetect/tree/master/templates/caffe
+~~~
 
 
 Tested on system with following configuration:
