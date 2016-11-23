@@ -13,7 +13,7 @@ VGG-16 | 96.51% | - | 5h20m | - | 537.1Mb | 2014 | [link](arxiv.org/pdf/1409.155
 VGG-19 | **97.42%** | - | 25h50m | - | 558.3Mb | 2014 | [link](arxiv.org/pdf/1409.1556.pdf)
 Network-In-Network | 93.22% | - | ~2h |-| 26.3Mb | 2014 | [link](arxiv.org/pdf/1312.4400v3.pdf)
 
-  All network models were trained for 30 epochs, but batch size, learning rate, etc. can vary. Also note for example for VGG-19 model sufficient accuracy(~97%) achived after 6 epochs, so in real life you need to train network shorter\longer. 
+  All network models were trained for 30 epochs, but batch size, learning rate, etc. can vary. Also note for example for VGG-19 model sufficient accuracy(~97%) achived after 6 epochs, so in real life you need to train network shorter\longer than 30 epochs. 
   Test accuracy measured on train-test split 80%-20%, maybe to achive better acuracy we can train on all available data.
   Validation accuracy measured on Kaggle leaderboard.
 
