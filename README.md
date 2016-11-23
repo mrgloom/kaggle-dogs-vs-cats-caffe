@@ -22,6 +22,12 @@ More models to test:
 https://github.com/beniz/deepdetect/tree/master/templates/caffe
 https://github.com/jay-mahadeokar/pynetbuilder/tree/master/models/imagenet
 https://github.com/ducha-aiki/caffenet-benchmark
+
+resnet
+try this
+https://github.com/lfrdm/Masterarbeit/blob/master/train_val-residual-small.prototxt
+from thread
+https://github.com/KaimingHe/deep-residual-networks/issues/6
 ~~~
 
 
