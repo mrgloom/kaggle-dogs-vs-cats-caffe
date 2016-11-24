@@ -30,6 +30,14 @@ from thread
 https://github.com/KaimingHe/deep-residual-networks/issues/6
 ~~~
 
+TODO:
+data augmentation:
+~~~
+1. Create python layer
+http://www.andrewjanowczyk.com/real-time-data-augmentation-using-nvidia-digits-python-layer/
+Try to make it like in torch wrapper 
+https://github.com/NVIDIA/DIGITS/issues/1034
+~~~
 
 Tested on system with following configuration:
 ~~~~
