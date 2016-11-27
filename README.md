@@ -1,6 +1,6 @@
 Solutions for https://www.kaggle.com/c/dogs-vs-cats competition.
 
-1. learning_from_scratch is folder with models that were trained in NVIDIA DIGITS with Caffe backend.
+1.learning_from_scratch is folder with models that were trained in NVIDIA DIGITS with Caffe backend.
 
 Here is table with results, but hyperparameters of neural nets can drastically affect accuracy, so if you know how to improve results let me know.
 
@@ -30,7 +30,7 @@ from thread
 https://github.com/KaimingHe/deep-residual-networks/issues/6
 ~~~
 
-2. finetuning is folder with models that were finetuned from models trained on ImageNet.
+2.finetuning is folder with models that were finetuned from models trained on ImageNet.
 
 Name| Acc. test | Acc. val. | Train time | Forward pass time | On disk model size | Year | Paper
 ------------------ | --- | --- | --- | --- | --- | --- | ---
