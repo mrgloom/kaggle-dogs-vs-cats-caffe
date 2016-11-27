@@ -19,6 +19,7 @@ Network-In-Network | 93.22% | - | ~2h |-| 26.3Mb | 2014 | [link](arxiv.org/pdf/1
 
 More models to test:
 ~~~
+1. Train ResNet from scratch.
 https://github.com/beniz/deepdetect/tree/master/templates/caffe
 https://github.com/jay-mahadeokar/pynetbuilder/tree/master/models/imagenet
 https://github.com/ducha-aiki/caffenet-benchmark
