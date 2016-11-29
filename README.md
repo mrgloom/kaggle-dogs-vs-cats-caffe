@@ -40,7 +40,7 @@ SqeezeNet v1.1 | - | - | ~2h | -| **2.9Mb** | 2016 | [link](arxiv.org/pdf/1602.0
 GoogLeNet | - | - | 50m | - | 41.3Mb | 2014 | [link](www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 VGG-16 | 99.40% | - | 5h20m | - | 537.1Mb | 2014 | [link](arxiv.org/pdf/1409.1556.pdf)
 VGG-19 | - | - | 25h50m | - | 558.3Mb | 2014 | [link](arxiv.org/pdf/1409.1556.pdf)
-Network-In-Network | - | - | ~2h |-| 26.3Mb | 2014 | [link](arxiv.org/pdf/1312.4400v3.pdf)
+Network-In-Network | 98.49% | - | ~2h |-| 26.3Mb | 2014 | [link](arxiv.org/pdf/1312.4400v3.pdf)
 
 TODO:
 data augmentation:
