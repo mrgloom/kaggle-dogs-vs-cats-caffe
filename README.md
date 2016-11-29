@@ -33,14 +33,14 @@ https://github.com/KaimingHe/deep-residual-networks/issues/6
 
 2.finetuning is folder with models that were finetuned from models trained on ImageNet.
 
-Name| Acc. test | Acc. val. | Train time | Forward pass time | On disk model size | Year | Paper
------------------- | --- | --- | --- | --- | --- | --- | ---
-AlexNet | 97.98%  | - | **35m** | - | 227.5Mb | 2012 | [link](papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-SqeezeNet v1.1 | 98.87% | - | ~2h | -| **2.9Mb** | 2016 | [link](arxiv.org/pdf/1602.07360v3.pdf)
-GoogLeNet | - | - | 50m | - | 41.3Mb | 2014 | [link](www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
-VGG-16 | 99.40% | - | 5h20m | - | 537.1Mb | 2014 | [link](arxiv.org/pdf/1409.1556.pdf)
-VGG-19 | - | - | 25h50m | - | 558.3Mb | 2014 | [link](arxiv.org/pdf/1409.1556.pdf)
-Network-In-Network | 98.49% | - | ~2h |-| 26.3Mb | 2014 | [link](arxiv.org/pdf/1312.4400v3.pdf)
+Name| Acc. test | Acc. val. 
+------------------ | --- | ---
+AlexNet | 97.98%  | - 
+SqeezeNet v1.1 | 98.87% | - 
+GoogLeNet | 99.58% | - 
+VGG-16 | 99.40% | - 
+VGG-19 | - | - 
+Network-In-Network | 98.49% | - 
 
 TODO:
 data augmentation:
