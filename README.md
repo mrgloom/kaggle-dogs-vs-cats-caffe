@@ -1,6 +1,6 @@
-Solutions for https://www.kaggle.com/c/dogs-vs-cats competition.
-
 `WORK IN PROGRESS`
+
+Solutions for https://www.kaggle.com/c/dogs-vs-cats and https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition competition.
 
 1.learning_from_scratch is folder with models that were trained in NVIDIA DIGITS with Caffe backend.
 
