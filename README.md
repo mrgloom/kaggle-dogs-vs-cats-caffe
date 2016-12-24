@@ -51,6 +51,8 @@ data augmentation:
 http://www.andrewjanowczyk.com/real-time-data-augmentation-using-nvidia-digits-python-layer/
 Try to make it like in torch wrapper 
 https://github.com/NVIDIA/DIGITS/issues/1034
+2. Example for batch processing
+https://github.com/choosehappy/public/blob/master/DL%20tutorial%20Code/common/step5_create_output_images_kfold.py
 ~~~
 
 Tested on system with following configuration:
