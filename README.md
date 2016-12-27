@@ -31,6 +31,9 @@ try this
 https://github.com/lfrdm/Masterarbeit/blob/master/train_val-residual-small.prototxt
 from thread
 https://github.com/KaimingHe/deep-residual-networks/issues/6
+
+NEW resnets with only deploy and pretrained models? weight initialization?
+https://github.com/terrychenism/ResNeXt
 ~~~
 
 2.finetuning is folder with models that were finetuned from models trained on ImageNet.
