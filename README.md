@@ -21,17 +21,6 @@ Test accuracy measured on train-test split 80%-20%, maybe to achive better acura
 
 3.feature_extraction is folder where CNN used only as feature extractor and SVM for training.
 
-TODO:
-data augmentation:
-~~~
-1. Create python layer
-http://www.andrewjanowczyk.com/real-time-data-augmentation-using-nvidia-digits-python-layer/
-Try to make it like in torch wrapper 
-https://github.com/NVIDIA/DIGITS/issues/1034
-2. Example for batch processing
-https://github.com/choosehappy/public/blob/master/DL%20tutorial%20Code/common/step5_create_output_images_kfold.py
-~~~
-
 Tested on system with following configuration:
 ~~~~
 Ubuntu version:
