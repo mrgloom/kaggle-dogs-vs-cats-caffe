@@ -19,6 +19,8 @@ Test accuracy measured on train-test split 80%-20%, maybe to achive better acura
 
 2.finetuning is folder with models that were finetuned from models trained on ImageNet.
 
+3.feature_extraction is folder where CNN used only as feature extractor and SVM for training.
+
 TODO:
 data augmentation:
 ~~~
