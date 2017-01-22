@@ -6,7 +6,7 @@ Here is table with results, but hyperparameters of neural nets can drastically a
 
 Name| Acc. test | finetuned Acc. test. | Train time | Forward pass time | On disk model size | Year | Paper
 ------------------ | --- | --- | --- | --- | --- | --- | ---
-AlexNet | 93.65%  | 97.98% | **35m** | 3.01 ms | 227.5Mb | 2012 | [link](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+AlexNet | 93.65%  | 97.98% | **35m** | **3.01 ms** | 227.5Mb | 2012 | [link](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 SqeezeNet v1.1 | 92.46% | 98.87% | ~2h | 3.91 ms| **2.9Mb** | 2016 | [link](http://arxiv.org/pdf/1602.07360v3.pdf)
 GoogLeNet | 94.62% | **99.58%** | 50m | 11.73 ms | 41.3Mb | 2014 | [link](http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 VGG-16 | 96.51% | 99.40% | 5h20m | 15.41 ms | 537.1Mb | 2014 | [link](http://arxiv.org/pdf/1409.1556.pdf)
