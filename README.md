@@ -6,12 +6,12 @@ Here is table with results, but hyperparameters of neural nets can drastically a
 
 Name| Acc. test | finetuned Acc. test. | Train time | Forward pass time | On disk model size | Year | Paper
 ------------------ | --- | --- | --- | --- | --- | --- | ---
-AlexNet | 93.65%  | 97.98% | **35m** | - | 227.5Mb | 2012 | [link](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-SqeezeNet v1.1 | 92.46% | 98.87% | ~2h | -| **2.9Mb** | 2016 | [link](http://arxiv.org/pdf/1602.07360v3.pdf)
-GoogLeNet | 94.62% | **99.58%** | 50m | - | 41.3Mb | 2014 | [link](http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
-VGG-16 | 96.51% | 99.40% | 5h20m | - | 537.1Mb | 2014 | [link](http://arxiv.org/pdf/1409.1556.pdf)
-VGG-19 | **97.42%** | 99.48% | 25h50m | - | 558.3Mb | 2014 | [link](http://arxiv.org/pdf/1409.1556.pdf)
-Network-In-Network | 93.65% | 98.49% | ~2h |-| 26.3Mb | 2014 | [link](http://arxiv.org/pdf/1312.4400v3.pdf)
+AlexNet | 93.65%  | 97.98% | **35m** | 3.01 ms | 227.5Mb | 2012 | [link](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+SqeezeNet v1.1 | 92.46% | 98.87% | ~2h | 3.91 ms| **2.9Mb** | 2016 | [link](http://arxiv.org/pdf/1602.07360v3.pdf)
+GoogLeNet | 94.62% | **99.58%** | 50m | 11.73 ms | 41.3Mb | 2014 | [link](http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
+VGG-16 | 96.51% | 99.40% | 5h20m | 15.41 ms | 537.1Mb | 2014 | [link](http://arxiv.org/pdf/1409.1556.pdf)
+VGG-19 | **97.42%** | 99.48% | 25h50m | 19.23 ms | 558.3Mb | 2014 | [link](http://arxiv.org/pdf/1409.1556.pdf)
+Network-In-Network | 93.65% | 98.49% | ~2h | 3.17 ms | 26.3Mb | 2014 | [link](http://arxiv.org/pdf/1312.4400v3.pdf)
 
 Test accuracy measured on train-test split 80%-20%, maybe to achive better acuracy we can train on all available data.
 
