@@ -15,37 +15,9 @@ VGG-16 | 96.51% | 99.40% | 5h20m | - | 537.1Mb | 2014 | [link](http://arxiv.org/
 VGG-19 | **97.42%** | 99.48% | 25h50m | - | 558.3Mb | 2014 | [link](http://arxiv.org/pdf/1409.1556.pdf)
 Network-In-Network | 93.65% | 98.49% | ~2h |-| 26.3Mb | 2014 | [link](http://arxiv.org/pdf/1312.4400v3.pdf)
 
-  All network models were trained for 30 epochs, but batch size, learning rate, etc. can vary(for more info see model definition and  training logs). Also note for example for VGG-19 model sufficient accuracy(~97%) achived after 6 epochs, so in real life you may train network shorter\longer than 30 epochs.
-  Test accuracy measured on train-test split 80%-20%, maybe to achive better acuracy we can train on all available data.
-  We can't measure validation accuracy on [Kaggle leaderboard](https://www.kaggle.com/c/dogs-vs-cats/leaderboard) because of submission is turned off.
-
-More models to test:
-~~~
-1. Train ResNet from scratch.
-https://github.com/beniz/deepdetect/tree/master/templates/caffe
-https://github.com/jay-mahadeokar/pynetbuilder/tree/master/models/imagenet
-https://github.com/ducha-aiki/caffenet-benchmark
-
-resnet
-try this
-https://github.com/lfrdm/Masterarbeit/blob/master/train_val-residual-small.prototxt
-from thread
-https://github.com/KaimingHe/deep-residual-networks/issues/6
-
-NEW resnets with only deploy and pretrained models? weight initialization?
-https://github.com/terrychenism/ResNeXt
-~~~
+Test accuracy measured on train-test split 80%-20%, maybe to achive better acuracy we can train on all available data.
 
 2.finetuning is folder with models that were finetuned from models trained on ImageNet.
-
-Name| Acc. test | Acc. val. 
------------------- | --- | ---
-AlexNet |   | - 
-SqeezeNet v1.1 |  | - 
-GoogLeNet |  | - 
-VGG-16 |  | - 
-VGG-19 | - | - 
-Network-In-Network |  | - 
 
 TODO:
 data augmentation:
