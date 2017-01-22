@@ -3,6 +3,7 @@
 Solutions for https://www.kaggle.com/c/dogs-vs-cats and https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition competition.
 
 Here is table with results, but hyperparameters of neural nets can drastically affect accuracy, so if you know how to improve results let me know.
+
 Name| Acc. test | finetuned Acc. test. | Train time | Forward pass time | On disk model size | Year | Paper
 ------------------ | --- | --- | --- | --- | --- | --- | ---
 AlexNet | 93.65%  | 97.98% | **35m** | - | 227.5Mb | 2012 | [link](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
@@ -11,6 +12,7 @@ GoogLeNet | 94.62% | **99.58%** | 50m | - | 41.3Mb | 2014 | [link](http://www.cs
 VGG-16 | 96.51% | 99.40% | 5h20m | - | 537.1Mb | 2014 | [link](http://arxiv.org/pdf/1409.1556.pdf)
 VGG-19 | **97.42%** | 99.48% | 25h50m | - | 558.3Mb | 2014 | [link](http://arxiv.org/pdf/1409.1556.pdf)
 Network-In-Network | 93.65% | 98.49% | ~2h |-| 26.3Mb | 2014 | [link](http://arxiv.org/pdf/1312.4400v3.pdf)
+
 Test accuracy measured on train-test split 80%-20%, maybe to achive better acuracy we can train on all available data.
 
 1.learning_from_scratch is folder with models that were trained in NVIDIA DIGITS with Caffe backend.
