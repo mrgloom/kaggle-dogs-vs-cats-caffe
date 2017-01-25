@@ -1,0 +1,26 @@
+{
+    "caffe flavor": "BVLC",
+    "caffe version": "1.0.0-rc3",
+    "creation time": "2017-01-15 22:59:33.402875",
+    "dataset_id": "20161129-185048-9470",
+    "deploy file": "deploy.prototxt",
+    "digits version": "4.1-dev",
+    "framework": "caffe",
+    "id": "20170115-225933-411e",
+    "image dimensions": [
+        256,
+        256,
+        3
+    ],
+    "image resize mode": "squash",
+    "job id": "20170115-225933-411e",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "model file": "original.prototxt",
+    "name": "VGG-19-256x256-Finetune",
+    "snapshot file": "snapshot_iter_25000.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Aborted",
+    "train_val file": "train_val.prototxt",
+    "username": "mrgloom"
+}

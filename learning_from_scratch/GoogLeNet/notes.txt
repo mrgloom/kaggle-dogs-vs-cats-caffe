@@ -1,0 +1,1 @@
+Model is original DIGITS GoogLeNet model with default parameters.

@@ -1,0 +1,26 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.13",
+    "creation time": "2016-11-29 15:37:51.792213",
+    "dataset_id": "20161129-134034-22c4",
+    "deploy file": "deploy.prototxt",
+    "digits version": "4.1-dev",
+    "framework": "caffe",
+    "id": "20161129-153751-07f9",
+    "image dimensions": [
+        256,
+        256,
+        3
+    ],
+    "image resize mode": "squash",
+    "job id": "20161129-153751-07f9",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "model file": "original.prototxt",
+    "name": "NetworkInNetwork-256x256-Finetune",
+    "snapshot file": "snapshot_iter_4710.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "mrgloom"
+}
