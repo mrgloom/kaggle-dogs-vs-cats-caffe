@@ -1,1 +1,5 @@
 TODO
+*.pyc
+finetuning/*/*.caffemodel
+learning_from_scratch/*/*.caffemodel
+kaggle_data
