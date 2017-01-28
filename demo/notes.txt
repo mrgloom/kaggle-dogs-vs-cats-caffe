@@ -1,0 +1,2 @@
+Here we have already trained models from 'finetuning' folder with smallest size to fit github file size limitations.
+Copy them to 'finetuning' folder.
