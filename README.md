@@ -12,6 +12,8 @@ GoogLeNet | 94.62% | **99.58%** | 50m | 11.73 ms | 41.3Mb | 2014 | [link](http:/
 VGG-16 | 96.51% | 99.40% | 5h20m | 15.41 ms | 537.1Mb | 2014 | [link](http://arxiv.org/pdf/1409.1556.pdf)
 VGG-19 | **97.42%** | 99.48% | 25h50m | 19.23 ms | 558.3Mb | 2014 | [link](http://arxiv.org/pdf/1409.1556.pdf)
 Network-In-Network | 93.65% | 98.49% | ~2h | 3.17 ms | 26.3Mb | 2014 | [link](http://arxiv.org/pdf/1312.4400v3.pdf)
+ResNet-50 | 95.84% | 99.52% | 18h | ? ms | 94.3Mb | 2015 | [link](https://arxiv.org/pdf/1512.03385.pdf)
+ResNet-101 | ?% | 99.4% | ? | ? ms | 170.5Mb | 2015 | [link](https://arxiv.org/pdf/1512.03385.pdf)
 
 Test accuracy measured on train-test split 80%-20%, maybe to achive better acuracy at kaggle leaderboard we can train on all available data.
 
