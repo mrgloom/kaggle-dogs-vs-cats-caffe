@@ -15,13 +15,15 @@ Network-In-Network | 93.65% | 98.49% | ~2h | 3.17 ms | 26.3Mb | 2014 | [link](ht
 ResNet-50 | 95.84% | 99.52% | 18h | ? ms | 94.3Mb | 2015 | [link](https://arxiv.org/pdf/1512.03385.pdf)
 ResNet-101 | ?% | 99.4% | ? | ? ms | 170.5Mb | 2015 | [link](https://arxiv.org/pdf/1512.03385.pdf)
 
-Test accuracy measured on train-test split 80%-20%, maybe to achive better acuracy at kaggle leaderboard we can train on all available data.
+Test accuracy was measured on train-test split 80%-20%.
 
 1.learning_from_scratch is folder with models that were trained in NVIDIA DIGITS with Caffe backend.
 
 2.finetuning is folder with models that were finetuned from models trained on ImageNet.
 
-3.feature_extraction is folder where CNN used only as feature extractor and SVM for training.
+3.feature_extraction is folder where CNN used only as feature extractor and SVM was used for training.
+
+
 
 Tested on system with following configuration:
 ~~~~
