@@ -26,7 +26,7 @@ Test accuracy was measured on train-test split 80%-20%.
 
 
 Tested on system with following configuration:
-~~~~
+~~~
 Ubuntu version:
 
 `lsb_release -a`
