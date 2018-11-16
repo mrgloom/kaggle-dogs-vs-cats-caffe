@@ -1,5 +1,3 @@
-`WORK IN PROGRESS`
-
 Solutions for https://www.kaggle.com/c/dogs-vs-cats and https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition competition.
 
 Here is table with results, but hyperparameters of neural nets can drastically affect accuracy, so feel free to try it out, reproduce results and improve them!
