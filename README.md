@@ -15,11 +15,10 @@ ResNet-101 | 96.39% | 99.48% | 1d 20h | 40.95 ms | 170.5Mb | 2015 | [link](https
 
 Test accuracy was measured on train-test split 80%-20%.
 
-1.learning_from_scratch is folder with models that were trained in NVIDIA DIGITS with Caffe backend.
+`learning_from_scratch` is folder with models that were trained in NVIDIA DIGITS with Caffe backend.
 
-2.finetuning is folder with models that were finetuned from models trained on ImageNet.
+`finetuning is folder` with models that were finetuned from models trained on ImageNet.
 
-3.feature_extraction is folder where CNN used only as feature extractor and SVM was used for training.
 
 
 
