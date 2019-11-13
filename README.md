@@ -1,4 +1,4 @@
-Solutions for https://www.kaggle.com/c/dogs-vs-cats and https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition competition.
+Solutions for https://www.kaggle.com/c/dogs-vs-cats and https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition competition using NVIDIA DIGITS with Caffe backend.
 
 
 Name| Acc. test | finetuned Acc. test. | Train time | Forward pass time | On disk model size | Year | Paper
@@ -14,11 +14,12 @@ ResNet-101 | 96.39% | 99.48% | 1d 20h | 40.95 ms | 170.5Mb | 2015 | [link](https
 
 Test accuracy was measured on train-test split 80%-20%.
 
-`learning_from_scratch` is folder with models that were trained in NVIDIA DIGITS with Caffe backend.
 
-`finetuning is folder` with models that were finetuned from models trained on ImageNet.
+`learning_from_scratch` - is folder with models which were trained from scratch.
 
+`finetuning` - is folder with models which were finetuned from models trained on ImageNet.
 
+`demo` - is small trained models.
 
 
 Tested on system with following configuration:
